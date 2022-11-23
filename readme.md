@@ -26,7 +26,7 @@
 
 实现了简易等价判断工具，可以自动判断一组 `OJ` 程序中两两是否等价或不等价，并且将结果保存至对应的 `csv` 文件中。
 
-<div align=center><img width = '400' height ='270' src = pic/result.png/></div>
+<div align=center><img width = '400' height ='270' src = 'pic/result.png'/></div>
 
 #
 
